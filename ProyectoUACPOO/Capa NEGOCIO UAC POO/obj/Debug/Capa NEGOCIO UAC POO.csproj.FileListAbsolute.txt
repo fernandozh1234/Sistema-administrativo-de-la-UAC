@@ -1,0 +1,6 @@
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\bin\Debug\Capa NEGOCIO UAC POO.dll
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\bin\Debug\Capa NEGOCIO UAC POO.pdb
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\obj\Debug\Capa NEGOCIO UAC POO.csprojAssemblyReference.cache
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\obj\Debug\Capa NEGOCIO UAC POO.csproj.CoreCompileInputs.cache
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\obj\Debug\Capa NEGOCIO UAC POO.dll
+C:\Users\Ferchoso\source\repos\ProyectoUACPOO\Capa NEGOCIO UAC POO\obj\Debug\Capa NEGOCIO UAC POO.pdb
